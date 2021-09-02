@@ -1,2 +1,4 @@
 # CaePi
-OpenSource of any of my RaspberryPi Projects
+Open Source of any of my RaspberryPi Projects
+
+
