@@ -1,5 +1,2 @@
-C
-C
-C
-C
-this is a test
+This is a test.
+Nano is much better than Vim
