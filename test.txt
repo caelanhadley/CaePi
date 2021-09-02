@@ -1,0 +1,2 @@
+This is a test.
+Nano is much better than Vim
